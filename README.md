@@ -1,16 +1,20 @@
-## Hi there 👋
+# 🚀 Rakhshanda | Senior Engineer @ SanDisk | ML & DSA Enthusiast  
 
-<!--
-**RakhshandaMujib/RakhshandaMujib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 **MTech (JU, 2023) | Senior Firmware Engineer**  
+👨‍💻 **Reviving My DSA & Competitive Programming Skills**  
+🎯 **Aspiring Data Scientist | Research-Driven**  
 
-Here are some ideas to get you started:
+## 📌 About Me  
+- 🔬 **Senior Engineer @ SanDisk**, working in **Firmware & Embedded Systems**  
+- 🤖 Passionate about **Machine Learning, AI & Data Science**  
+- 🔄 Restarting **DSA & Competitive Programming (LeetCode, CP)**  
+- 🎯 Currently enrolled in **Sequence Modeling Specialization (Coursera)**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Current Goals  
+- 📚 Master **Deep Learning & Reinforcement Learning**  
+- 🎓 Work towards a **PhD in the US**  
+
+## 💡 Let's Connect!  
+📧 [Email](rakhshandamujib@gmail.com) | 💼 [LinkedIn]([your-linkedin](https://www.linkedin.com/in/rmujib1999/)) 
+
+_"The only way to improve is to keep solving."_ 🚀  
